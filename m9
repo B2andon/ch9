@@ -1,0 +1,9 @@
+// A list of the basic functions that I had used for this dataset for this assignment
+
+****************************************************************************************
+> MotorCycles <- read.csv("C:/Users/Brandon/Downloads/MotorCycles.csv")
+>   View(MotorCycles)
+> plot(MotorCycles)
+> scatter.smooth(MotorCycles)
+> boxplot(MotorCycles)
+> plot.ts(MotorCycles)
